@@ -18,8 +18,8 @@ Glavni razvojni plan: [docs/ROAMKIT_DEV_PLAN.md](docs/ROAMKIT_DEV_PLAN.md) → *
 
 ## Pravila
 
-- Sve naredbe (git, docker, 
-pm, gh) **samo iz WSL-a** — nikad iz PowerShella
+- Agent workflow: [`AGENTS.md`](./AGENTS.md) (isti fajl u svakom repou)
+- Sve naredbe (git, docker, npm, gh) **samo iz WSL-a** — nikad iz PowerShella
 - Kod u ~/projects/roamkit-net/, ne u /mnt/c/
 - Telecom26 (Windows) = poslovna arhiva — odvojeno od ovog workspacea
 
